@@ -1,0 +1,7 @@
+for typescript to js
+
+npm install -g typescript
+
+for running typescript directly
+
+npm install -g ts-node
