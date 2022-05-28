@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "name": "Mobile",
+      "price": 5,
+      "id": 1
+    },
+    {
+      "name": "Tablet",
+      "price": 8,
+      "id": 2
+    },
+    {
+      "name": "Laptop",
+      "price": 15,
+      "id": 3
+    },
+    {
+      "name": "Mobile",
+      "price": 5,
+      "id": 4
+    },
+    {
+      "name": "Tablet",
+      "price": 8,
+      "id": 5
+    },
+    {
+      "name": "Laptop",
+      "price": 15,
+      "id": 6
+    }
+  ],
+  "services": [
+    {
+      "category": "Accounting",
+      "duration": 50,
+      "id": 1
+    },
+    {
+      "category": "Auditing",
+      "duration": 100,
+      "id": 2
+    },
+    {
+      "category": "Accounting",
+      "duration": 50,
+      "id": 3
+    },
+    {
+      "category": "Auditing",
+      "duration": 100,
+      "id": 4
+    }
+  ]
+}

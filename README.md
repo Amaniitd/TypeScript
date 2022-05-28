@@ -3,7 +3,7 @@
 ## Lecture 1
 
 1. TypeScript Fundamentals
-2. Type safety / no type safety, Primitive type,Union type
+2. Type safety / no type safety, Primitive type, Union type
 3. Type Declaration
 4. Classes & Constructors
 
@@ -21,6 +21,12 @@
 4. ReadOnly property
 5. Enumerators
 6. Arrays in typescript
+
+## Lecture 4
+
+1. Abstract Method and Class
+2. Mock Rest API and Invoking them
+3. Generics type
 
 ### Credits
 
