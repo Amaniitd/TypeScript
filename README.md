@@ -33,6 +33,11 @@
 1. Decorators: Functions and Implementation
 2. toString() Method
 
+## Lecture 6
+
+Building a movie search application using JavaScript
+Link: https://github.com/Amaniitd/Capstone
+
 ### Credits
 
 [Application Library Engineering Group](http://applibgroup.github.io/)
