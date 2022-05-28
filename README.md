@@ -28,6 +28,11 @@
 2. Mock Rest API and Invoking them
 3. Generics type
 
+## Lecture 5
+
+1. Decorators: Functions and Implementation
+2. toString() Method
+
 ### Credits
 
 [Application Library Engineering Group](http://applibgroup.github.io/)
