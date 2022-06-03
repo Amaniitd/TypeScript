@@ -38,6 +38,22 @@
 Building a movie search application using JavaScript
 Link: https://github.com/Amaniitd/Capstone
 
+## Lecture 7
+
+Building a movie search application using TypeScript
+Link: https://github.com/Amaniitd/Capstone_TS
+
+## Lecture 8
+
+1. Types
+2. Type Space and Value Space
+3. Type Inference
+4. Type Assertion (Type Casting)
+5. Static type Checking - Nominal vs Structural Typing
+6. Type Hierarchy
+7. Type Widening & Narrowing
+8. Type Guards
+
 ### Credits
 
 [Application Library Engineering Group](http://applibgroup.github.io/)

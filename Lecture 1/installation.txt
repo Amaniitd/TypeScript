@@ -5,3 +5,5 @@ npm install -g typescript
 for running typescript directly
 
 npm install -g ts-node
+
+json-server --watch db.json -d 2000
