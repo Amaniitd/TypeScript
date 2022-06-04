@@ -54,6 +54,16 @@ Link: https://github.com/Amaniitd/Capstone_TS
 7. Type Widening & Narrowing
 8. Type Guards
 
+## Lecture 9
+
+1. Companion Object Pattern
+2. Advanced Functions
+   - Function Type Expression
+   - Call Signatures, Description
+   - Function Overloading
+3. Mapped Types
+   - Mapped Type Modifier (keyin, keyof)
+
 ### Credits
 
 [Application Library Engineering Group](http://applibgroup.github.io/)
