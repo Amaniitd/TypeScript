@@ -64,6 +64,22 @@ Link: https://github.com/Amaniitd/Capstone_TS
 3. Mapped Types
    - Mapped Type Modifier (keyin, keyof)
 
+## Lecture 10
+
+1. Utility Types
+2. Utility Types - Readymade Mappeed
+   - Partial
+   - Required
+   - Readonly
+   - Record
+   - Pick
+   - Omit Type - Pick
+3. Utility Types - Conditional
+   - Exclude
+   - NonNullable
+   - Return Type
+4. Discriminated Unions
+
 ### Credits
 
 [Application Library Engineering Group](http://applibgroup.github.io/)
